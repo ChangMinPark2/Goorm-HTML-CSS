@@ -146,7 +146,7 @@
 }
 
 .post_header {
-    background-color: #FFFFFF;
+    background-color: var(--seconary);
     border-bottom: 1px solid #DBDBDB;
 
     display: flex;
